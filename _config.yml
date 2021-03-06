@@ -9,7 +9,7 @@ version: 2
 name: 毛艺桦
 title: 高级咨询师
 email: 522631185@qq.com
-website: https://vicky-mao.github.io/vicky-mao-lite-cn
+website: https://vicky-mao.github.io/cn
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -54,9 +54,9 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: 深圳龙华区大浪街道经济形势分析
-        dates: Mar 2019 - Mar 2020
+        caption: Mar 2019 - Mar 2020
         # link_text: Project Website
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -66,6 +66,76 @@ content:
         description: | # this will include new lines to allow paragraphs
           分析龙华区大浪街道每季度经济运行情况。
           凭借此项目获得了与大浪街道办的二次合作（大浪街道国民经济与社会发展“十四五”规划）。
+      - layout: left
+        title: 龙岗区宝龙街道丰顺片区城市更新单元产业专题研究
+        caption: May 2019 - Dec 2019
+        description: | # this will include new lines to allow paragraphs
+            负责分析项目建设的可行性与必要性（包括对区位交通、土地利用情况、建筑情况、园区产业现状、周边发展情况、项目发展环境的分析），相关案例借鉴，对项目将产生的经济效益进行估算，参与项目结题汇报。
+          本报告已获得深圳龙岗区工信局专项规划阶段的复函。
+      - layout: left
+        title: 深圳与中山全面合作战略研究
+        caption: Mar 2019 - Nov 2019
+        description: | # this will include new lines to allow paragraphs
+            为实现深中两市优势互补、错位发展，中山主动对接深圳，进一步开展深层次、多方位城市间合作，进而更好地发挥中山作为大湾区重要节点城市的作用。
+      - layout: left
+        title: 龙华排水公司发展战略规划（2019-2023）
+        caption: May 2019 - Aug 2019
+        description: | # this will include new lines to allow paragraphs
+
+完成项目框架设计，企业内部调研，利用SWOT模型选择公司发展战略，制定公司战略定位、发展原则、目标、愿景，对公司业务、安全等指标进行年度预测，分析公司战略举措，提出保障公司目标实现的路径，参与专家评审汇报。
+          该项目通过国资委评审及项目专家评审。
+      - layout: left
+        title: 领先城区科技创新政策比较及其对龙岗的启示研究
+        caption: Nov 2018 - Aug 2019
+        description: | # this will include new lines to allow paragraphs
+          独立完成项目前期调研方案设计，完成对龙岗区科技创新部门、科技企业、孵化器、众创空间的调研，立足龙岗区现有的科技创新政策，从企业、创新平台、创新载体、人才扶持四大方面深入研究比较龙岗区与其他领先城区的政策差距，分析龙岗区当前科技创新政策体系存在的缺陷与不足，借鉴领先城区典型、可推广的科技创新政策措施，以解决问题和满足发展需求为导向，提出适合龙岗区情的对策建议。
+      - layout: left
+        title: 关于推动湾区协同发展，促进深圳民营经济发展的调研报告
+        caption: Mar 2019 - Jul 2019
+        description: | # this will include new lines to allow paragraphs
+          从打造湾区人才发展优质环境、推动湾区贸易自由化便捷化以及创新湾区金融互联互通机制三个方面，了解湾区协作现状、问题与挑战，提出了包括扩宽人才互认范围、深化通关模式改革、开放金融环境等在内的对策建议。
+      - layout: left
+        title: 龙岗区金融人才队伍建设现状、问题及对策研究
+        caption: Jul 2018 - Nov 2018
+        description: | # this will include new lines to allow paragraphs
+          独立完成项目前期调研方案设计、项目框架设计，参与龙岗区各相关部门的调研，分析龙岗区金融人才结构、人才环境现状，总结龙岗区金融人才队伍建设成效，分析金融人才发展过程中存在的问题和原因，通过研究全国各地先进的人才政策和措施，提出龙岗区金融人才队伍建设的建议和措施。
+      - layout: left
+        title: 龙岗区金融人才队伍建设现状、问题及对策研究
+        caption: Jul 2018 - Nov 2018
+        description: | # this will include new lines to allow paragraphs
+
+独立完成项目前期调研方案设计、项目框架设计，参与龙岗区各相关部门的调研，分析龙岗区金融人才结构、人才环境现状，总结龙岗区金融人才队伍建设成效，分析金融人才发展过程中存在的问题和原因，通过研究全国各地先进的人才政策和措施，提出龙岗区金融人才队伍建设的建议和措施。
+      - layout: left
+        title: 深圳龙华区观澜L203地块产业发展专题研究
+        caption: Jul 2018 - Nov 2018
+        description: | # this will include new lines to allow paragraphs
+          分析项目建设的可行性与必要性，选定项目发展的产业，分析产业前景，对项目进行定位，分析项目产业现状与发展前景，制定项目功能分区方案，对项目将产生的经济效益进行估算，参与项目结题汇报。
+      - layout: left
+        title: 改善政务服务优化龙华营商环境
+        caption: Mar 2018 - Nov 2018
+        description: | # this will include new lines to allow paragraphs
+          参与项目前期调研方案和问卷设计、实地调研，分析龙华区营商环境现状，总结龙华区营商环境建设成果，通过进一步分析全国各省、市、地区优化政务服务的经典案例，提出加快政府改善政务服务优化龙华区营商环境的合理化建议及改进措施，参与专家评审汇报。
+      - layout: left
+        title: 深圳龙岗区金融发展“十三五”规划中期评估
+        caption: May 2018 - Oct 2018
+        description: | # this will include new lines to allow paragraphs
+          独立完成项目前期调研方案设计，参与龙岗区各相关部门的调研，梳理各项经济指标完成情况，分析龙岗区金融发展总体水平、发展优势，总结规划实施过程中存在的突出问题和发展瓶颈，提出龙岗区金融业下一步工作重点及相应的对策措施。
+      - layout: left
+        title: 大鹏新区人口变化与公共服务匹配研究报告
+        caption: Mar 2018 - Sep 2018
+        description: | # this will include new lines to allow paragraphs
+          参与项目前期调研方案设计、实地调研，分析人口现状特征，对现阶段和未来的公共服务供给能力进行匹配研究，分析人口变化对公共服务供给提出的挑战，对新区未来人口变化所需的政府公共服务投入进行了预估，提出提升公共服务供给质量的对策建议。
+      - layout: left
+        title: 深圳营造国际一流营商环境重点调研报告
+        caption: Apr 2018 - Jul 2018
+        description: | # this will include new lines to allow paragraphs
+          负责项目中涉及企业融资部分的内容，分析深圳中小企业融资困难的原因，提出化解企业融资困境的对策建议。
+本报告居深圳市2019年 年度优秀提案榜首
+      - layout: left
+        title: 中国IT行业集成创新探索
+        caption: Dec 2015 - Jul 2016
+        description: | # this will include new lines to allow paragraphs
+          优秀论文被马来亚中国研究中心收录。
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
