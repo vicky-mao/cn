@@ -45,13 +45,13 @@ linkedin_username: vicky-mao-6ab988138
 google_analytics: "UA-145797159-1"
 
 # About Section
-# about_title: About Me
+about_title: 简介
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
      您好，我是一名战略规划咨询师，在中观经济研究领域拥有丰富经验，曾经为多家企业、政府机构及非营利组织提供战略规划服务，帮助他们在政策制定、产业规划、土地及政务服务领域取得重要进展及显著成果。
 
 content:
-  - title: Projects # Title for the section
+  - title: 项目经历 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -148,45 +148,89 @@ content:
         description: | # this will include new lines to allow paragraphs
           优秀论文被马来亚中国研究中心收录。
 
-  - title: Experience # Title for the section
+  - title: 工作经验 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: 深圳中观经济咨询有限公司
+        link: http://www.szmec.cn
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: 首席咨询师
+        caption: 2018年3月 - 2021年2月
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          从事产业研究和公共决策咨询、市场化运营的专业智库，专注于产业研究和公共决策咨询
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          主要工作职责：项目策划、申报与调研；撰写调研报告；编制发展规划
+          1.负责参与市、区的科研项目，为各级政府决策提供智力支持。
+          2.负责政府相关政策研究、政策解读，掌握政府发布的相关政策法规或信息，为企业战略发展, 业务运营及重大决策提供建议，同时制定相应的对策及解决方案。
+          3.承担企业重大战略研究课题，组织协调相关人员进行调研分析，完成专项课题分析报告。
+          4.负责产业规划、园区规划、产业经济等领域的专题研究，解决区域或园区的产业经济发展问题。
+          5.负责与相关政府部门的日常沟通和公函文件往来，及时处理各种政府公关应急事宜，与政府部门保持良好的关系。
+          重点项目包括
+          - 大鹏新区人口变化与公共服务匹配研究报告
+          - 深圳营造国际一流营商环境重点调研报告
+          - 龙华区观澜北L203地块产业发展专题研究
+          - 龙华区金融业发展十三五规划中期评估
+          - 龙华区金融人才队伍建设现状、问题及对策研究
+          - 龙华区改善政务服务优化营商环境专题研究
+          - 深圳市基础设施投资基金管理有限公司五年发展规划
+          - 领先城区科技创新政策比较及其对龙岗的启示研究
+          - 龙华区各级党群服务中心运营管理情况调研报告
+          - 龙岗区人口发展与公共服务匹配研究
+          - 龙华排水公司发展战略规划
+          - 宝安区重点招引企业服务真空与提升调研报告
+          - 宝安区二房东租赁情况调研报告
+          - 龙岗区宝龙街道丰顺片区城市更新单元产业专题研究
+          - 加快交通基础设施建设，推进龙华高质量一体化发展调研报告
+          - 促进深圳民营经济发展重点调研总报告
+          - 关于推动大湾区协同发展，促进深圳民营经济发展的调研报告
+          - 大浪经济形势分析
+          - 深圳市龙岗区人口发展十三五规划中期评估
+      - layout: left
+        title: 铭基食品有限公司
+        link: http://www.keystonefoods.com
+        # link_text: boringcompany.com
+        sub_title: 重点客户专员
+        caption: 2016年9月 - 2017年9月
+        quote: >
+          负责制作营销方案、合同及协议相关条款商务对接及沟通，跟踪项目执行情况，项目内部和外部事物的沟通、协调与支持；负责招投标的组织与落实工作
+        description: | # this will include new lines to allow paragraphs
+          重点项目包括
+          - 汉堡王（中国）一年一度鸡肉产品采购竞标中，本人代表我司获得1亿人民币的竞标份额
+          - 开发新重点客户--无锡百基拉餐饮管理有限公司，为公司创造平均每月3万人民币的净收益
+          - 独立跟进与白色城堡（中国）签下五年牛肉饼独供合同
 
-  - title: Education # Title for the section
+  - title: 学历 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: 马来亚大学
+        caption: 2015年2月 - 2016年10月
+        sub_title: 经济学硕士
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          - 雅思6.5分 / GPA 3.5分
+          - 高分论文被马来西亚中国研究中心收录
+          - 软件技能：SPSS / Eviews / Excel / Word / PPT
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: 中南民族大学
+        caption: 2009年9月 - 2013年6月
+        sub_title: 经济学学士
+        description: | # this will include new lines to allow paragraphs
+          - GPA 3.5分
+          - 连续4年获得三好学生荣誉
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  #- title: A Little More About Me
+    #layout: text
+    #content: | # this will include new lines to allow paragraphs
+      #Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      #- Rock climbing
+      #- Gaming
+      #- Knitting
+      #- [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      #Look at this cool image
+      #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
